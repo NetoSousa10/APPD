@@ -4,11 +4,7 @@ Esta aplicação em Python utiliza Flask como framework web, HTML, CSS, Bootstra
 
 ## Configuração do Ambiente
 
-Certifique-se de ter Python e Postgresql instalados no seu sistema. Você pode instalar as dependências necessárias usando o seguinte comando:
-
-```bash
-pip install -r requirements.txt
-```
+Certifique-se de ter Python e Postgresql instalados no seu sistema.
 
 Além disso, é necessário configurar o banco de dados Postgresql. Você pode fazer isso executando os seguintes comandos no terminal:
 
